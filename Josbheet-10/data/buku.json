@@ -1,0 +1,26 @@
+[
+  {
+    "judul": "Pemrograman Web dengan PHP dan MySQL",
+    "pengarang": "Budi Raharjo",
+    "tahun": 2022,
+    "isbn": "978-602-6232-12-3",
+    "stok": 10,
+    "kategori": "Teknologi"
+  },
+  {
+    "judul": "Belajar Database Relasional dan SQL",
+    "pengarang": "Siti Nurhaliza",
+    "tahun": 2021,
+    "isbn": "978-979-29-5012-0",
+    "stok": 5,
+    "kategori": "Basis Data"
+  },
+  {
+    "judul": "Struktur Data dan Algoritma",
+    "pengarang": "Eko Prasetyo",
+    "tahun": 2023,
+    "isbn": "978-623-01-0111-2",
+    "stok": 8,
+    "kategori": "Informatika"
+  }
+]
